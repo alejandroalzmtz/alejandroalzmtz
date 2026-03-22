@@ -10,7 +10,7 @@ Intelligent Systems Engineering student at UASLP with a strong interest in web d
 
 - **[Los 3 Osos](https://github.com/alejandroalzmtz/Los-3-Osos)** - Los 3 Osos is a restaurant website that functions similarly to an e-commerce platform, allowing users to browse and order products online.
 
-- **[Plataforma Geo-Inteligente en Salud Publica]()** - The Geo-Intelligent Public Health Platform is designed to analyze nationwide disease data in Mexico, providing insights into key indicators such as mortality and incidence. It incorporates interactive maps and multiple data visualizations to support data-driven decision-making.
+- **[Plataforma Geo-Inteligente en Salud Publica](https://github.com/alejandroalzmtz/PlataformaGeoInteligenteEnSaludPublica)** - The Geo-Intelligent Public Health Platform is designed to analyze nationwide disease data in Mexico, providing insights into key indicators such as mortality and incidence. It incorporates interactive maps and multiple data visualizations to support data-driven decision-making.
 
 
 
